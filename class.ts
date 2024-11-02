@@ -25,7 +25,6 @@ class Student {
 
 
 // getter and setter
-
 public getAge() : number {
     return this.GamepadEvent;
 }
